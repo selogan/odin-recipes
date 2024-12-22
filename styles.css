@@ -1,0 +1,23 @@
+h1,
+h2 {
+    padding-left: 10px;
+    background-color: beige;
+}
+
+p,
+ol,
+ul {
+    background-color: bisque;
+}
+
+img {
+    border: 2px solid #000000;
+    border-radius: 8px;
+    height: auto;
+    width: 500px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
